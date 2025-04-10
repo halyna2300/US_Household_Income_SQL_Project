@@ -1,7 +1,7 @@
 # US Household Income Data Cleaning & Exploratory Data Analysis Project
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Blank_US_Map_%28states_only%29.svg/1200px-Blank_US_Map_%28states_only%29.svg.png" width="500">
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Blank_US_Map_%28states_only%29.svg/1200px-Blank_US_Map_%28states_only%29.svg.png](https://github.com/halyna2300/US_Household_Income_SQL_Project/blob/main/US.Household.Income.jpg)" width="500">
 </p>
 
 ---
