@@ -1,8 +1,9 @@
 # US Household Income Data Cleaning & Exploratory Data Analysis Project
 
 <p align="center">
-  <img src="https://github.com/halyna2300/US_Household_Income_SQL_Project/blob/main/US.Household.Income.jpg?raw=true" width="500">
+  <img src="https://raw.githubusercontent.com/halyna2300/US_Household_Income_SQL_Project/main/US.Household.Income.jpg" width="500">
 </p>
+
 ---
 
 ## 📌 Project Overview
